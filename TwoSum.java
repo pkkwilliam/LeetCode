@@ -5,7 +5,6 @@ public class TwoSum{
         int target = 22;
         int [] result = solution.twoSum(nums,target);
         System.out.println(result[0]+" "+result[1]);
-
 	}
 }
 class Solution{
