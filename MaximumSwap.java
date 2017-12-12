@@ -21,7 +21,6 @@ class Solution{
 			int compareIndex = i;
 			for(int j = charNum.length - 1; j > i; j--){
 				if(charNum[j] > charNum[compareIndex]){
-					System.out.println(i+" "+j);
 					didSwap = true;
 					compareIndex = j;
 					largestSpot = j;
@@ -37,9 +36,6 @@ class Solution{
 		charNum[shouldSwap] = charNum[largestSpot];
 		charNum[largestSpot] = temp;
 		// Convert to int and return
-		String result = "";
-		for(char c : charNum)
-			result += c;
-		return Integer.valueOf(result);
+		return Integer.valueOf(new String(charNum));
 	}
 }
