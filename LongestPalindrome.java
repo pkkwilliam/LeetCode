@@ -2,7 +2,7 @@
 // Longest Palindrome
 import java.util.LinkedList;
 
-public class problem{
+public class LongestPalindrome{
 	public static void main(String[]args){
 		Solution solution = new Solution();
 		String input1 = "abccccdd";
