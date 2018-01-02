@@ -1,10 +1,15 @@
 // Problem 12
 // Integer to Roman
 // Postitive integer less than 4000
+
+import java.util.Scanner;
 public class IntegerToRoman{
 	public static void main(String[]args){
+        Scanner scan = new Scanner(System.in);
 		Solution solution = new Solution();
-		String result = solution.intToRoman(3000);
+        System.out.println("Please enter a positive integer less than 4000");
+        int input = scan.nextInt();
+		String result = solution.intToRoman(input);
 		System.out.println(result);
 	}
 }
