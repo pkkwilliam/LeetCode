@@ -30,6 +30,7 @@ class Solution {
                     else
                         result -= value[j];
                     currentSymbol = j;
+                    break;
                 }
             }           
         }
