@@ -1,6 +1,12 @@
-// Problem 13
-// Roman to Integer
-
+/* 
+Problem 13
+Roman to Integer
+Understading the order of the symbol is important
+IV and VI is 4 and 6
+(VI)reading from bank to forth, we can add I then V 1+5
+(IV) but if I appear after V we can do 5 - 1 since this is the order
+how it can appear.
+*/
 public class RomantoInteger{
     public static void main(String[]args){
         Solution solution = new Solution();
@@ -16,6 +22,7 @@ class Solution {
         int value [] = {1000,500,100,50,10,5,1};
         int result = 0;
         int currentSymbol = order.length;
+
         for(int i = s.length() - 1; i >= 0; i--){
             for(int j = 0; j < order.length; j++){
                 if(s.charAt(i) == order[j]){
