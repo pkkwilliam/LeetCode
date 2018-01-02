@@ -6,6 +6,7 @@ IV and VI is 4 and 6
 (VI)reading from bank to forth, we can add I then V 1+5
 (IV) but if I appear after V we can do 5 - 1 since this is the order
 how it can appear.
+ADD more corresponding value and symbol at line 22, 23 if needed.
 */
 public class RomantoInteger{
     public static void main(String[]args){
