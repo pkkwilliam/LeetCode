@@ -6,13 +6,11 @@ IV and VI is 4 and 6
 (VI)reading from bank to forth, we can add I then V 1+5
 (IV) but if I appear after V we can do 5 - 1 since this is the order
 how it can appear.
-ADD more corresponding value and symbol at line 22, 23 if needed.
+ADD more corresponding value and symbol at line 20, 21 if needed.
 */
 public class RomantoInteger{
     public static void main(String[]args){
         Solution solution = new Solution();
-        //System.out.println("Please enter a positive integer less than 4000");
-        //int input = scan.nextInt();
         int result = solution.romanToInt("DCXXI");
         System.out.println(result);
     }
