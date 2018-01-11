@@ -1,5 +1,6 @@
-//462
+// Problem 462
 // Minimum Moves to Equal Array Elements II
+// use median to find the closest move
 import java.util.Arrays;
 public class MinimumMovestoEqualArrayElementsII{
     public static void main(String[]args){
