@@ -25,8 +25,8 @@ class Solution {
         Arrays.sort(nums);
         int median = nums[nums.length/2];
         int count = 0;
-        for(int i = 0; i < nums.length; i++)
-            count += Math.abs(nums[i] - median);
+        for(int i :nums)
+            count += Math.abs(i - median);
         return count;
     }
 }
