@@ -3,10 +3,9 @@
 public class AddString{
 	public static void main(String[]args){
 		Solution solution = new Solution();
-        String input1 [] = {"1","27987","98","0","6913259244","9333852702227987"};
-        String input2 [] = {"939","4263","9","0","71103343","85731737104263"};
-        //String input1 [] = {"1"};
-        //String input2[] = {"999"};
+        String input1 [] = {"1","1","27987","98","0","6913259244","9333852702227987"};
+        String input2 [] = {"939","999","4263","9","0","71103343","85731737104263"};
+
         for(int i = 0; i < input1.length; i++)
             System.out.println(solution.addStrings(input1[i],input2[i])); 
 	}
