@@ -20,18 +20,7 @@ public class ShortestUnsortedContinuousSubarray{
 	}
 }
 class Solution {
-    public int findUnsortedSubarray(int[] nums) {
-    	int [] sortedNums = nums.clone();
-    	Arrays.sort(sortedNums);
-    	int start = -1;
-    	int end = -2;
-    	for(int i = 0; i < nums.length; i++){
-    		if(nums[i] != sortedNums[i]){
-    			if(start == -1)
-    				start = i;
-    			end = i;
-    		}
-    	}
-    	return end - start + 1;
+    public int minPatches(int[] nums, int n) {
+        
     }
 }
