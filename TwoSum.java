@@ -10,15 +10,34 @@ public class TwoSum{
         System.out.println(result[0]+" "+result[1]);
 	}
 }
-class Solution{
-	public int[] twoSum(int[] nums, int target) {
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int[][] array = new int[nums.length][2];
         for(int i = 0; i < nums.length; i++){
-            for(int j = i + 1; j < nums.length; j++){
-                if((nums[i]+nums[j]) == target){
-                	return new int[] {i,j};
-                }
-            }
+            array[i][0] = nums[i];
+            array[i][1] = i;
         }
-        return null;
+        Arrays.sort(array, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                if(o1[0] > o2[0])
+                    return 1;
+                else
+                    return -1;
+
+            }
+        });
+        int left = 0, right = array.length -1;
+        while(left < right){
+            int sum = array[left][0] + array[right][0];
+            if(sum == target)
+                break;
+            else if(sum > target)
+                right--;
+            else if(sum < target)
+                left++;
+        }
+        return new int[] {array[left][1],array[right][1]};
     }
+
 }
