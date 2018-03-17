@@ -43,4 +43,51 @@ class Solution {
         longest = (localCount > longest) ? localCount : longest;
         return longest;
     }
+    private String manacherAlgorithms(char[] input){
+        int R = 0, C = 0;
+        int[] count = new int[input.length];
+        for(int i = 0; i < input.length; i++){
+            int start;
+            if(i >= R) {
+                start = 1;
+                count[i] = 1;
+            }
+            else{
+                start = (R - i < count[i - (i - C) * 2]) ? R - i : count[i - (i - C) * 2];
+                count[i] = start * 2  - 1;
+            }
+            while(i - start > -1 && i + start < input.length){
+                if(input[i-start] == input[i+start]){
+                    if(i+start > R) {
+                        R = i + start;
+                        C = i;
+                    }
+                    start++;
+                    count[i] += 2;
+                }
+                else{
+                    break;
+                }
+            }
+        }
+
+        int longestIndex = 0, longest = 0;
+        for(int i = 0; i < count.length; i++) {
+            if (count[i] > longest) {
+                longest = count[i];
+                longestIndex = i;
+            }
+        }
+        for(int i : count)
+            System.out.print(i+" ");
+        for(char c : input)
+            System.out.print(c+" ");
+        int start = longestIndex - longest / 2;
+        System.out.println("Start: "+start+" end: "+(start+longest)+" Index = "+longestIndex+" Longest = "+longest);
+        String result = "";
+        for(int i = start; i < start + longest - 1; i++)
+            if(input[i] != '#')
+                result += String.valueOf(input[i]);
+        return result;
+    }
 }
