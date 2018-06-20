@@ -18,13 +18,11 @@ public class LetterCombinationsofaPhoneNumber {
         String[] input = {
               "23"
         };
-        for(String s : input)
-            System.out.println(new Solution().letterCombinations(s));
     }
 }
 class Solution {
     List<String> list = new ArrayList<>();
-    public List<String> letterCombinations(String digits) {
+    public void letterCombinations(String digits) {
         String[] keys = {
                 "0",
                 "1",
@@ -40,6 +38,6 @@ class Solution {
 
     }
     private String revursionHelper(String...s){
-
+        return s[1];
     }
 }
