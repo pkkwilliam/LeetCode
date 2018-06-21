@@ -19,7 +19,9 @@ public class LinkedListCycle {
         head.next.next.next.next.next.next = new ListNode(6);
         head.next.next.next.next.next.next.next = new ListNode(7);
         head.next.next.next.next.next.next.next.next = new ListNode(8);
-        //head.next.next.next.next.next.next.next.next.next = head.next.next.next;
+        head.next.next.next.next.next.next.next.next.next = head.next.next.next;
+
+
 
         System.out.println(new Solution().hasCycle(head));
 
@@ -31,8 +33,14 @@ class Solution {
     public boolean hasCycle(ListNode head) {
         ListNode fast = head, slow = head;
         while(fast != null && slow != null){
-            fast = fast.next.next;
-            slow = slow.next;
+            if(fast.next == null)
+                return false;
+            else if(fast.next.next == null)
+                return false;
+            else
+                fast = fast.next.next;
+            if(slow.next != null)
+                slow = slow.next;
             if(fast == slow)
                 return true;
         }
