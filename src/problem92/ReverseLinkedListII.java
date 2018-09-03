@@ -35,13 +35,13 @@ public class ReverseLinkedListII {
             result = result.next;
         }
     }
-    }
 }
 
 class Solution {
     public ListNode reverseBetween(ListNode head, int m, int n) {
         ListNode result = null;
         int currentCount = 0;
+        return null;
     }
 }
 class ListNode{

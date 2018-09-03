@@ -28,20 +28,7 @@ public class SymmetricTree {
 }
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        LinkedList<TreeNode> list = new LinkedList<>();
-        LinkedList<Integer> numbers = new LinkedList<>();
-        list.add(root);
-        list.add(null);
-        while(!list.isEmpty()){
-            TreeNode current = list.poll();
-            while(current != null){
-                if(current.left != null)
-                    list.add(current.left);
-                if(current,right != null)
-                    list.add(current.right);
-            }
-            level++;
-        }
+    // TODO
     return true;
     }
 }

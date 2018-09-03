@@ -1,16 +1,0 @@
-
-V
-squid:S106)"9Replace this use of System.out or System.err by a logger.(Û‰•¾8Ù·³åÖ,
-V
-squid:S106+"9Replace this use of System.out or System.err by a logger.(Û‰•¾8Ù·³åÖ,
-V
-squid:S106,"9Replace this use of System.out or System.err by a logger.(Û‰•¾8Ù·³åÖ,
-usquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ø”øÿÿÿÿ8–üƒäÖ,
-V
-squid:S106*"9Replace this use of System.out or System.err by a logger.(Û‰•¾8Ù·³åÖ,
-V
-squid:S106("9Replace this use of System.out or System.err by a logger.(Û‰•¾8×µ²åÖ,
-Wsquid:S35168"9Refactor this method to not always return the same value.(ÔÌü8ãâéÖ,
-Msquid:S1481>"*Remove this unused "index" local variable.(Èïèöøÿÿÿÿ8Ì±ãéÖ,
-Fsquid:S1659>"#Declare "index" on a separate line.(Èïèöøÿÿÿÿ8Ì±ãéÖ,
-Msquid:S00108?")Either remove or fill this block of code.(Ÿû´¡ûÿÿÿÿ8óÆÕèÖ,
