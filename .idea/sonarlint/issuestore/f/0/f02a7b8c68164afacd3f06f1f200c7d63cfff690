@@ -1,0 +1,4 @@
+
+s squid:LabelsShouldNotBeUsedCheck!";Refactor the code to remove this label and the need for it.(åÍœûÿÿÿÿ8Ç¸­¤Ó,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸šœÚÿÿÿÿÿ8ÿ–¯¤Ó,

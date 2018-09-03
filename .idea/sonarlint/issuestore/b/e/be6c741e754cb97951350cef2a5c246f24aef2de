@@ -1,0 +1,7 @@
+
+T
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(Ëöçêûÿÿÿÿ
+nsquid:S3776L"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†Ş·ÿÿÿÿÿ
+:squid:S1659Q"#Declare "count" on a separate line.(Ñ’ÊÏ

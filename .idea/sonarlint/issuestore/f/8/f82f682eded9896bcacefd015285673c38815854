@@ -1,0 +1,11 @@
+
+Esquid:S1659."'Declare "x_maximum" on a separate line.(ñ±ƒÍ8¶…‡ÊÔ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¶âşşÿÿÿÿ8ÇíÛÈÔ,
+psquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ±ƒÍ8Ğå‡ÊÔ,
+Lsquid:S1481.".Remove this unused "y_maximum" local variable.(ñ±ƒÍ8Ù§‹ÊÔ,
+psquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ±ƒÍ8¶…‡ÊÔ,
+?squid:S16593""Declare "cols" on a separate line.(ÛÒÑ8ê•ÊÔ,
+Dsquid:S1172-"&Remove these unused method parameters.(«Õ´ß8òïŠÊÔ,
+Esquid:S1659."'Declare "y_maximum" on a separate line.(ñ±ƒÍ8Ğå‡ÊÔ,
+Lsquid:S1481.".Remove this unused "x_maximum" local variable.(ñ±ƒÍ8Ù§‹ÊÔ,

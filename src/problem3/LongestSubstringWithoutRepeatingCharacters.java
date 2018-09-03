@@ -17,7 +17,7 @@ import java.util.HashMap;
 public class LongestSubstringWithoutRepeatingCharacters {
     public static void main(String[]args){
         String input[] = {
-                "abcabcbb","bbbbb","pwwkew","","abcda","a"
+                "abcabcbb","bbbbb","pwwkew","","abcda","a",""
         };
         for(String s : input)
             System.out.println(new Solution().lengthOfLongestSubstring(s));
