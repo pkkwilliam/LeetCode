@@ -1,3 +1,5 @@
+package leetcode;
+
 /*
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -9,8 +11,6 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
  */
-
-package problem1;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -25,7 +25,7 @@ public class TwoSum{
         };
         int[] target = {9,3,3,6};
         for(int i = 0; i < input.length; i++){
-            int[] result = new Solution().twoSum(input[i],target[i]);
+            int[] result = new Solution1().twoSum(input[i],target[i]);
             for(int j : result)
                 System.out.print(j+" ");
             System.out.println();
@@ -33,7 +33,7 @@ public class TwoSum{
     }
 }
 
-class Solution {
+class Solution1 {
     public int[] twoSum(int[] nums, int target) {
         int[][] array = new int[nums.length][2];
         for(int i = 0; i < nums.length; i++){
@@ -41,12 +41,12 @@ class Solution {
             array[i][1] = i;
         }
         Arrays.sort(array, new Comparator<int[]>(){
-           @Override
-           public int compare(int[] i1, int[] i2){
-               if(i1[0] > i2[0])
-                   return 1;
-               return -1;
-           }
+            @Override
+            public int compare(int[] i1, int[] i2){
+                if(i1[0] > i2[0])
+                    return 1;
+                return -1;
+            }
         });
         int left = 0, right = array.length - 1;
         while(left < right){
