@@ -59,6 +59,8 @@ Explanation:The maximum width existing in the fourth level with the length 8 (6,
 Note: Answer will in the range of 32-bit signed integer.
  */
 package leetcode;
+import leetcode.common.TreeNode;
+
 import java.util.*;
 
 public class MaximumWidthofBinaryTree {
