@@ -24,9 +24,15 @@ package leetcode;
  * Output: [4,3,2,2]
  * Explanation: The array represents the integer 4321.
  *
+ * Test Case Implemented
  */
 
 public class PlusOne {
+    /**
+     * Iterate from the end of index to start
+     * @param digits
+     * @return
+     */
     public int[] plusOne(int[] digits) {
         int currentDigit = digits.length - 1;
         digits[currentDigit] += 1;
