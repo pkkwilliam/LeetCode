@@ -2,194 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ebf1513-13e7-468f-8f84-61eb64402bd3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/demo/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/CoinChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/CompareVersionNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/CountPrimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/EvaluateReversePolishNotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/ExamRoom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/ExamRoom855.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/IncreasingSubsequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/MaximalSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/MaximumWidthofBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/RemoveDuplicatesfromSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Solution150.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Solution204.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Solution221.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Solution26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Solution322.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Solution491.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Solution662.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/common/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem1/Solution$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem1/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem1/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem100/SameTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem100/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem100/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem101/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem101/SymmetricTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem101/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem104/MaximumDepthofBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem104/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem104/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem111/MinimumDepthofBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem111/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem111/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem112/PathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem112/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem112/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem12/IntegertoRoman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem12/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem121/BestTimetoBuyandSellStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem121/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem13/RomantoInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem13/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem135/Candy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem135/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem136/SingleNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem136/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem14/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem14/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem141/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem141/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem141/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem15/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem15/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem155/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem16/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem16/ThreeSumClosest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem17/LetterCombinationsofaPhoneNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem17/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem18/FourSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem18/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem2/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem2/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem2/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem20/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem20/ValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem200/NumberOfIsland.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem200/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem206/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem206/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem206/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem21/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem21/MergeTwoSortedLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem21/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem216/CombinationSumIII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem216/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem257/BinaryTreePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem257/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem257/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem258/AddDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem258/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem28/ImplementstrStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem28/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem3/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem3/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem332/ReconstructItinerary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem332/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem344/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem344/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem35/SearchInsertPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem35/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem4/MedianofTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem4/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem413/FizzBuzz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem413/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem414/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem414/ThirdMaximumNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem5/LongestPalindromicSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem5/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem53/MaximumSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem53/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem58/LengthofLastWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem58/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem6/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem6/ZigZagConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem643/MaximumAverageSubarrayI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem643/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem686/RepeatedStringMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem686/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem695/MaxAreaOfIsland.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem695/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem7/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem7/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem70/ClimbingStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem70/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem728/SelfDividingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem728/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem79/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem79/WordSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem83/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem83/RemoveDuplicatesfromSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem83/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem9/PalindromeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem9/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem92/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem92/ReverseLinkedListII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/problem92/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/AddDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/BestTimetoBuyandSellStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/BinaryTreePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Candy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ClimbingStairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/CoinChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/CombinationSumIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/CountPrimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/EvaluateReversePolishNotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ExamRoom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/FizzBuzz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ImplementstrStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/IncreasingSubsequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/IntegertoRoman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/KthSmallestElementinaBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/LengthofLastWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/LinkedListCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/LongestPalindromicSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MaxAreaOfIsland.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MaximalSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MaximumDepthofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MaximumSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MaximumWidthofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MedianofTwoSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MergeTwoSortedLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MinStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/MinimumDepthofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/NumberOfIsland.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/PalindromeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/PathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ReconstructItinerary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/RemoveDuplicatesfromSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/RemoveDuplicatesfromSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/RepeatedStringMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ReverseInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ReverseLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ReverseLinkedListII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/RomantoInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/SameTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/SearchInsertPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/SelfDividingNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/SingleNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ThirdMaximumNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ValidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/WordSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ZigZagConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/common/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/common/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/PlusOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/PlusOneTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -243,12 +57,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="54" />
+          <entry key="java" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="54" />
+          <entry key="JAVA" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -265,15 +79,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RomantoInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -346,11 +151,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/PathSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/PlusOneTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -370,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/AddDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStock.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreePaths.java" />
@@ -421,6 +234,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicatesfromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/ReconstructItinerary.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/PathSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/PlusOneTest.java" />
       </list>
     </option>
   </component>
@@ -523,7 +337,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540011219729" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540011345513" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -609,14 +423,11 @@
       <option name="presentableId" value="Default" />
       <updated>1539828414835</updated>
       <workItem from="1539828416244" duration="13758000" />
-      <workItem from="1540010385263" duration="833000" />
+      <workItem from="1540010385263" duration="958000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PlusOneTest - 2018.10.20 at 00h 29m 58s.xml">
-      <configuration name="PlusOneTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PlusOneTest - 2018.10.20 at 00h 32m 18s.xml">
       <configuration name="PlusOneTest" configurationId="JUnit" />
     </history-entry>
@@ -644,9 +455,12 @@
     <history-entry file="PlusOneTest - 2018.10.20 at 00h 40m 16s.xml">
       <configuration name="PlusOneTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PlusOneTest - 2018.10.20 at 00h 53m 44s.xml">
+      <configuration name="PlusOneTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14594000" />
+    <option name="totallyTimeSpent" value="14719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -661,13 +475,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
@@ -689,13 +503,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1042,6 +849,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/PlusOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
         </state>
       </provider>
     </entry>

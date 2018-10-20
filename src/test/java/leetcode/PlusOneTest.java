@@ -24,7 +24,6 @@ public class PlusOneTest {
         plusOne = new PlusOne();
     }
 
-
     public PlusOneTest(int[] input, int[] expected){
         this.input = input;
         this.expected = expected;
