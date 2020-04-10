@@ -1,5 +1,7 @@
 package leetcode;
 
+import common.TreeNode;
+
 /**
  * Given a binary tree, find its maximum depth.
 
@@ -19,7 +21,6 @@ package leetcode;
  return its depth = 3.
  */
 
-import leetcode.common.TreeNode;
 
 public class MaximumDepthofBinaryTree {
     public int maxDepth(TreeNode root) {

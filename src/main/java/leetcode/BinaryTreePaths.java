@@ -20,7 +20,8 @@ package leetcode;
  Explanation: All root-to-leaf paths are: 1->2->5, 1->3
  */
 
-import leetcode.common.TreeNode;
+import common.TreeNode;
+
 import java.util.*;
 
 public class BinaryTreePaths {

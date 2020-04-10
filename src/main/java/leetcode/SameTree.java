@@ -34,7 +34,8 @@ Input:     1         1
 Output: false
  */
 
-import leetcode.common.TreeNode;
+
+import common.TreeNode;
 
 public class SameTree {
     public boolean isSameTree(TreeNode p, TreeNode q) {

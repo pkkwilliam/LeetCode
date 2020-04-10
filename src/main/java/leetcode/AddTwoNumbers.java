@@ -16,19 +16,22 @@ import common.ListNode;
 
 public class AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode result = new ListNode(0), current = result;
-        int carry = 0;
-        while(l1 != null || l2 != null){
-            int number1 = (l1 != null) ? l1.val : 0;
-            int number2 = (l2 != null) ? l2.val : 0;
-            int sum = number1 + number2 + carry;
-            carry = sum / 10;
-            current.next = new ListNode(sum % 10);
-            current = current.next;
-            l1 = (l1 != null) ? l1.next : null;
-            l2 = (l2 != null) ? l2.next : null;
+        ListNode result = recursionHelper(l1, l2);
+        return result;
+    }
+    ListNode recursionHelper(ListNode l1, ListNode l2){
+        if(l1.next == null && l2.next == null) {
+            return new ListNode(l1.val + l2.val);
         }
-        current.next = (carry != 0) ? new ListNode(carry) : null;
-        return result.next;
+        ListNode child = recursionHelper(l1.next != null ? l1.next : l1, l2.next != null ? l2.next : l2);
+        l1.val = l1.next != null ? l1.val : 0;
+        l2.val = l2.next != null ? l2.val : 0;
+        int childValue = child.val;
+        int carryValue = childValue / 10;
+        child.val = childValue % 10;
+        ListNode parent = new ListNode(l1.val + l2.val + carryValue);
+        parent.next = child;
+        System.out.println(parent.val);
+        return parent;
     }
 }
