@@ -40,13 +40,21 @@ package leetcode;
  }
  */
 
-import java.util.*;
-
 public class RemoveDuplicatesfromSortedArray {
+
     public int removeDuplicates(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        for(int i : nums)
-            set.add(i);
-        return set.size();
+        int validLength = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (i == 0) {
+                validLength++;
+            } else if (nums[i] == nums[i - 1]) {
+                continue;
+            } else {
+                nums[validLength] = nums[i];
+                validLength++;
+            }
+        }
+        return validLength;
     }
+
 }

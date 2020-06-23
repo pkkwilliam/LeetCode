@@ -22,29 +22,48 @@ import java.util.*;
 public class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> list = new ArrayList<>();
-        for(int i = 0; i < nums.length - 2; i++){
-            if(i > 0 && nums[i] == nums[i - 1])
+        final List<List<Integer>> result = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (i - 1 >= 0 && nums[i] == nums[i - 1]) {
                 continue;
-            int left = i + 1, right = nums.length - 1;
-            while(left < right){
-                int sum = nums[i] + nums[left] + nums[right];
-                if(sum == 0){
-                    list.add(new ArrayList<>());
-                    list.get(list.size() - 1).add(nums[i]);
-                    list.get(list.size() - 1).add(nums[left]);
-                    list.get(list.size() - 1).add(nums[right]);
-                }
-                if(sum > 0)
-                    do{
-                        right--;
-                    }while(right > 1 && nums[right] == nums[right+1]);
-                else
-                    do {
-                        left++;
-                    }while(left < nums.length - 1 && nums[left] == nums[left - 1]);
+            }
+            if (i + 2 < nums.length) {
+                result.addAll(twoSum(Arrays.copyOfRange(nums, i + 1, nums.length), nums[i] * -1, nums[i]));
             }
         }
-        return list;
+        return result;
     }
+
+    protected List<List<Integer>> twoSum(int[] numsChunk, int target, int current) {
+        final List<List<Integer>> result = new ArrayList<>();
+        int left = 0, right = numsChunk.length - 1;
+        while (left < right) {
+            int leftValue = numsChunk[left];
+            int rightValue = numsChunk[right];
+            if (leftValue + rightValue == target) {
+                result.add(new ArrayList<>(Arrays.asList(current, leftValue, rightValue)));
+                right = skipLeftDuplicate(numsChunk, right, right - 1);
+            } else if (leftValue + rightValue > target) {
+                right = skipLeftDuplicate(numsChunk, right, right - 1);
+            } else if(leftValue + rightValue < target) {
+                left = skipRightDuplicate(numsChunk, left, left + 1);
+            }
+        }
+        return result;
+    }
+
+    protected int skipRightDuplicate(int[] nums, int currentValueIndex, int nextValueIndex) {
+        while (nextValueIndex < nums.length && nums[currentValueIndex] == nums[nextValueIndex]) {
+            nextValueIndex++;
+        }
+        return nextValueIndex;
+    }
+
+    protected int skipLeftDuplicate(int[] nums, int currentValueIndex, int nextValueIndex) {
+        while (nextValueIndex >= 0 && nums[currentValueIndex] == nums[nextValueIndex]) {
+            nextValueIndex--;
+        }
+        return nextValueIndex;
+    }
+
 }

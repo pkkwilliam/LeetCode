@@ -2,72 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ebf1513-13e7-468f-8f84-61eb64402bd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CanPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CherryPickup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CountAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CountCompleteTreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/EmployeeImportance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/JewelsandStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LetterCombinationsofaPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinimumFallingPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/NRepeatedElementInSize2NArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveLinkedListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveNthNodeFromEndofList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SnapshotArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SubarraySumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SwapNodesinPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ToLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ZeroOneMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/CanPlaceFlowersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/CherryPickupTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/CountAndSayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/CountCompleteTreeNodesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/LetterCombinationsofaPhoneNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/LongestPalindromicSubstringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/MinimumDepthofBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/MinimumFallingPathSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/MinimumPathSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/MissingNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/NRepeatedElementInSize2NArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/SnapshotArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/SubarraySumEqualsKTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/SwapNodesinPairsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/ToLowerCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/TwoSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/ZeroOneMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CreateTargetArrayintheGivenOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindPeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/KidsWiththeGreatestNumberofCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinCostClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseVowelsofaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RunningSumof1dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ShuffletheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SubarrayProductLessThanK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/ContainerWithMostWaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/CreateTargetArrayintheGivenOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/FindPeakElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/KidsWiththeGreatestNumberofCandiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/MinCostClimbingStairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/RemoveDuplicatesfromSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/ReverseVowelsofaStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/RunningSumof1dArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/ShuffletheArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/SubarrayProductLessThanKTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/SudokuSolverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/ThreeSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/TrappingRainWaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/UniquePathsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/common/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MaximumDepthofBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaximumDepthofBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MaximumWidthofBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaximumWidthofBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MinimumDepthofBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinimumDepthofBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/SameTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/common/ListNodeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/BinaryTreePaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/BinaryTreePaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/MaximumDepthofBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/MaximumDepthofBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/MaximumWidthofBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/MaximumWidthofBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/MinimumDepthofBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/MinimumDepthofBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/PathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/SameTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/TwoSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/TwoSum$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/common/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/common/ListNodeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode/PlusOneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/leetcode/PlusOneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicatesfromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/RemoveDuplicatesfromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/RemoveDuplicatesfromSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/ThreeSum.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,6 +44,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$SubarrayProductLessThanKTest.ic" NAME="SubarrayProductLessThanKTest Coverage Results" MODIFIED="1586923522350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode$LongestPalindromicSubstringTest.ic" NAME="LongestPalindromicSubstringTest Coverage Results" MODIFIED="1577758677040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leetcode.*</FILTER>
     </SUITE>
@@ -122,87 +91,129 @@
     <session id="835867926">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
-          <entry key="project.open.time.0" value="13" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="39" />
+          <entry key="project.open.time.0" value="17" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="180" />
+          <entry key="java" value="232" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="180" />
+          <entry key="JAVA" value="232" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
+          <entry key="dummy" value="9" />
           <entry key="ft" value="13" />
-          <entry key="java" value="39107" />
+          <entry key="java" value="55121" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39107" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JAVA" value="55121" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="VTL" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LetterCombinationsofaPhoneNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-22">
-              <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MinimumPathSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/MinimumPathSumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ReverseVowelsofaString.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                  <folding>
+                    <element signature="e#553#554#0" expanded="true" />
+                    <element signature="e#583#584#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/KidsWiththeGreatestNumberofCandiesTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="389">
+                  <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#310#311#0" expanded="true" />
+                    <element signature="e#375#376#0" expanded="true" />
+                    <element signature="e#654#655#0" expanded="true" />
+                    <element signature="e#674#675#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ReverseVowelsofaStringTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#262#263#0" expanded="true" />
+                    <element signature="e#315#316#0" expanded="true" />
+                    <element signature="e#348#349#0" expanded="true" />
+                    <element signature="e#414#415#0" expanded="true" />
+                    <element signature="e#447#448#0" expanded="true" />
+                    <element signature="e#519#520#0" expanded="true" />
+                    <element signature="e#552#553#0" expanded="true" />
+                    <element signature="e#612#613#0" expanded="true" />
+                    <element signature="e#645#646#0" expanded="true" />
+                    <element signature="e#705#706#0" expanded="true" />
+                    <element signature="e#738#739#0" expanded="true" />
+                    <element signature="e#804#805#0" expanded="true" />
+                    <element signature="e#837#838#0" expanded="true" />
+                    <element signature="e#895#896#0" expanded="true" />
+                    <element signature="e#928#929#0" expanded="true" />
+                    <element signature="e#990#991#0" expanded="true" />
+                    <element signature="e#1023#1024#0" expanded="true" />
+                    <element signature="e#1079#1080#0" expanded="true" />
+                    <element signature="e#1112#1113#0" expanded="true" />
+                    <element signature="e#1172#1173#0" expanded="true" />
+                    <element signature="e#1206#1207#0" expanded="true" />
+                    <element signature="e#1272#1273#0" expanded="true" />
+                    <element signature="e#1336#1337#0" expanded="true" />
+                    <element signature="e#1356#1357#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -216,6 +227,9 @@
       <find>AddTwoNumbersTest</find>
       <find>testData</find>
       <find>row -</find>
+      <find>currentPro</find>
+      <find>stack</find>
+      <find>ReverseVowelsofaString</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -224,35 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/PlusOne.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/RemoveNthNodeFromEndofList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/RemoveLinkedListElements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/EmployeeImportance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/ToLowerCase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/NRepeatedElementInSize2NArray.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/NRepeatedElementInSize2NArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/JewelsandStones.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/CountAndSayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/CountAndSay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubstring.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/LongestPalindromicSubstringTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/ToLowerCaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/SubarraySumEqualsK.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/TwoSumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/SubarraySumEqualsK.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/SubarraySumEqualsKTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/MissingNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/MissingNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/leetcode/SnapshotArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/SnapshotArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/SameTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/PathSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/MaximumWidthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/MaximumDepthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreePaths.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/CountCompleteTreeNodesTest.java" />
@@ -275,6 +260,35 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/LetterCombinationsofaPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/LetterCombinationsofaPhoneNumberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/ThreeSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/RemoveDuplicatesfromSortedArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicatesfromSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/UniquePathsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/MinCostClimbingStairsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/MinCostClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/SubarrayProductLessThanKTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/SubarrayProductLessThanK.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/ContainerWithMostWaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ContainerWithMostWater.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/TrappingRainWaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/TrappingRainWater.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/SudokuSolverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/SudokuSolver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/RunningSumof1dArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/RunningSumof1dArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/FindPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/FindPeakElementTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/CreateTargetArrayintheGivenOrderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/CreateTargetArrayintheGivenOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ShuffletheArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/ShuffletheArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/KidsWiththeGreatestNumberofCandiesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/KidsWiththeGreatestNumberofCandies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ReverseVowelsofaString.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/ReverseVowelsofaStringTest.java" />
       </list>
     </option>
   </component>
@@ -291,7 +305,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -301,12 +315,82 @@
       <profile-state>
         <expanded-state>
           <State />
-        </expanded-state>
-        <selected-state>
           <State>
             <id>Android</id>
           </State>
-        </selected-state>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
@@ -318,6 +402,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -393,20 +478,19 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586495083604" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592899072951" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -420,8 +504,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MinimumPathSumTest">
-    <configuration name="LetterCombinationsofaPhoneNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ReverseVowelsofaStringTest">
+    <configuration name="KidsWiththeGreatestNumberofCandiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -430,12 +514,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.LetterCombinationsofaPhoneNumberTest" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.KidsWiththeGreatestNumberofCandiesTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumFallingPathSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KidsWiththeGreatestNumberofCandiesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -444,42 +528,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.MinimumFallingPathSumTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumPathSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.MinimumPathSumTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumPathSumTest.testCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.MinimumPathSumTest" />
-      <option name="METHOD_NAME" value="testCase1" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.KidsWiththeGreatestNumberofCandiesTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZeroOneMatrixTest.updateMatrixTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseVowelsofaStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -488,27 +544,57 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.ZeroOneMatrixTest" />
-      <option name="METHOD_NAME" value="updateMatrixTest3" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseVowelsofaStringTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseVowelsofaStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseVowelsofaStringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseVowelsofaStringTest.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseVowelsofaStringTest" />
+      <option name="METHOD_NAME" value="test10" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ZeroOneMatrixTest.updateMatrixTest3" />
-      <item itemvalue="JUnit.LetterCombinationsofaPhoneNumberTest" />
-      <item itemvalue="JUnit.MinimumFallingPathSumTest" />
-      <item itemvalue="JUnit.MinimumPathSumTest" />
-      <item itemvalue="JUnit.MinimumPathSumTest.testCase1" />
+      <item itemvalue="JUnit.KidsWiththeGreatestNumberofCandiesTest.test1" />
+      <item itemvalue="JUnit.KidsWiththeGreatestNumberofCandiesTest" />
+      <item itemvalue="JUnit.ReverseVowelsofaStringTest.test1" />
+      <item itemvalue="JUnit.ReverseVowelsofaStringTest" />
+      <item itemvalue="JUnit.ReverseVowelsofaStringTest.test10" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MinimumPathSumTest" />
-        <item itemvalue="JUnit.MinimumPathSumTest.testCase1" />
-        <item itemvalue="JUnit.MinimumFallingPathSumTest" />
-        <item itemvalue="JUnit.LetterCombinationsofaPhoneNumberTest" />
-        <item itemvalue="JUnit.ZeroOneMatrixTest.updateMatrixTest3" />
+        <item itemvalue="JUnit.ReverseVowelsofaStringTest" />
+        <item itemvalue="JUnit.ReverseVowelsofaStringTest.test1" />
+        <item itemvalue="JUnit.ReverseVowelsofaStringTest.test10" />
+        <item itemvalue="JUnit.KidsWiththeGreatestNumberofCandiesTest" />
+        <item itemvalue="JUnit.KidsWiththeGreatestNumberofCandiesTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -554,50 +640,59 @@
       <workItem from="1582789553265" duration="4803000" />
       <workItem from="1583166113854" duration="3537000" />
       <workItem from="1583820572667" duration="910000" />
-      <workItem from="1586487641276" duration="5938000" />
+      <workItem from="1586487641276" duration="19289000" />
+      <workItem from="1586873812434" duration="12559000" />
+      <workItem from="1586935249204" duration="10063000" />
+      <workItem from="1587084508319" duration="6295000" />
+      <workItem from="1587531690649" duration="52000" />
+      <workItem from="1592545196395" duration="5573000" />
+      <workItem from="1592553980550" duration="726000" />
+      <workItem from="1592562791810" duration="1989000" />
+      <workItem from="1592645555092" duration="6000" />
+      <workItem from="1592896399320" duration="2639000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LetterCombinationsofaPhoneNumberTest - 2020.04.10 at 12h 09m 51s.xml">
-      <configuration name="LetterCombinationsofaPhoneNumberTest" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest - 2020.06.23 at 15h 42m 56s.xml">
+      <configuration name="ReverseVowelsofaStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LetterCombinationsofaPhoneNumberTest - 2020.04.10 at 12h 13m 54s.xml">
-      <configuration name="LetterCombinationsofaPhoneNumberTest" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest_test10 - 2020.06.23 at 15h 44m 36s.xml">
+      <configuration name="ReverseVowelsofaStringTest.test10" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumFallingPathSumTest - 2020.04.10 at 12h 47m 49s.xml">
-      <configuration name="MinimumFallingPathSumTest" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest_test10 - 2020.06.23 at 15h 49m 47s.xml">
+      <configuration name="ReverseVowelsofaStringTest.test10" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumFallingPathSumTest - 2020.04.10 at 12h 57m 51s.xml">
-      <configuration name="MinimumFallingPathSumTest" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest - 2020.06.23 at 15h 49m 51s.xml">
+      <configuration name="ReverseVowelsofaStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumPathSumTest - 2020.04.10 at 12h 59m 04s.xml">
-      <configuration name="MinimumPathSumTest" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest_test1 - 2020.06.23 at 15h 51m 03s.xml">
+      <configuration name="ReverseVowelsofaStringTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumPathSumTest_testCase1 - 2020.04.10 at 13h 00m 46s.xml">
-      <configuration name="MinimumPathSumTest.testCase1" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest_test1 - 2020.06.23 at 15h 51m 41s.xml">
+      <configuration name="ReverseVowelsofaStringTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumPathSumTest_testCase1 - 2020.04.10 at 13h 01m 18s.xml">
-      <configuration name="MinimumPathSumTest.testCase1" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest_test1 - 2020.06.23 at 15h 51m 46s.xml">
+      <configuration name="ReverseVowelsofaStringTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumPathSumTest_testCase1 - 2020.04.10 at 13h 01m 43s.xml">
-      <configuration name="MinimumPathSumTest.testCase1" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest - 2020.06.23 at 15h 51m 49s.xml">
+      <configuration name="ReverseVowelsofaStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumPathSumTest_testCase1 - 2020.04.10 at 13h 02m 24s.xml">
-      <configuration name="MinimumPathSumTest.testCase1" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest - 2020.06.23 at 15h 55m 15s.xml">
+      <configuration name="ReverseVowelsofaStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinimumPathSumTest_testCase1 - 2020.04.10 at 13h 04m 11s.xml">
-      <configuration name="MinimumPathSumTest.testCase1" configurationId="JUnit" />
+    <history-entry file="ReverseVowelsofaStringTest - 2020.06.23 at 15h 56m 53s.xml">
+      <configuration name="ReverseVowelsofaStringTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157302000" />
+    <option name="totallyTimeSpent" value="210555000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24892704" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2811159" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -625,8 +720,39 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21244635" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -715,242 +841,58 @@
           <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/MinCostClimbingStairs.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/TrappingRainWater.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/TrappingRainWater.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/FindPeakElement.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/FindPeakElement.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/CreateTargetArrayintheGivenOrder.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/CreateTargetArrayintheGivenOrder.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/ShuffletheArray.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/dsafasdfasdfasdf.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RemoveNthNodeFromEndofList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ToLowerCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/NRepeatedElementInSize2NArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/CountAndSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="90" column="7" lean-forward="true" selection-start-line="90" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/JewelsandStones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ToLowerCaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/CountAndSayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="27" column="81" selection-start-line="27" selection-start-column="81" selection-end-line="27" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/LongestPalindromicSubstringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/NRepeatedElementInSize2NArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SubarraySumEqualsK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/MissingNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/SubarraySumEqualsKTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="51" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/TwoSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="52" column="63" lean-forward="true" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SnapshotArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/SnapshotArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/BinaryTreePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MaximumDepthofBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MaximumWidthofBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="69" column="39" lean-forward="true" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/PathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/CountCompleteTreeNodesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/CountCompleteTreeNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MinimumFallingPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/SwapNodesinPairsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SwapNodesinPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1208">
@@ -1036,9 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1053,13 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-            <element signature="e#1123#1124#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1067,9 +999,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22">
           <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="22" selection-start-line="22" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicatesfromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="44" selection-start-line="44" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/RemoveDuplicatesfromSortedArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ThreeSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1080,13 +1048,257 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MinimumPathSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        <state relative-caret-position="209">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/UniquePathsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/MinCostClimbingStairsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MinCostClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SubarrayProductLessThanK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="47" column="1" selection-start-line="10" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/SubarrayProductLessThanKTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MaximumProductSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ContainerWithMostWaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" selection-start-line="33" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/TrappingRainWaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TrappingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SudokuSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/SudokuSolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/RunningSumof1dArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RunningSumof1dArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="570" column="6" lean-forward="true" selection-start-line="570" selection-start-column="6" selection-end-line="570" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="675" lean-forward="true" selection-start-line="675" selection-end-line="675" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/CreateTargetArrayintheGivenOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/FindPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/CreateTargetArrayintheGivenOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/FindPeakElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="69" column="7" lean-forward="true" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ShuffletheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ShuffletheArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/KidsWiththeGreatestNumberofCandies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/KidsWiththeGreatestNumberofCandiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ReverseVowelsofaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ReverseVowelsofaStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
           </folding>
         </state>
       </provider>
